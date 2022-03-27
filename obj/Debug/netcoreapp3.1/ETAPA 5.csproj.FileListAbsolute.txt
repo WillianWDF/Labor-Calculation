@@ -1,0 +1,52 @@
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.exe
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.deps.json
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.runtimeconfig.json
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.runtimeconfig.dev.json
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.Views.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\ETAPA 5.Views.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.csprojAssemblyReference.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.AssemblyInfoInputs.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.AssemblyInfo.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.csproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.RazorAssemblyInfo.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.RazorAssemblyInfo.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.TagHelpers.input.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.TagHelpers.output.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.RazorCoreGenerate.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.RazorTargetAssemblyInfo.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.RazorTargetAssemblyInfo.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.Views.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\staticwebassets\ETAPA 5.StaticWebAssets.Manifest.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\staticwebassets\ETAPA 5.StaticWebAssets.xml
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.genruntimeconfig.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\ETAPA 5.csproj.CopyComplete
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servico.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noticas.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\ItensUsuario\Editar.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\ItensUsuario\FaleConosco.cshtml.g.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\Técnico em Informática para Internet\Modúlo 2\PI\ETAPA 5\obj\Debug\netcoreapp3.1\Razor\Views\ItensUsuario\Listagem.cshtml.g.cs

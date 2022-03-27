@@ -1,0 +1,41 @@
+@model ItensUsuario
+@{
+    ViewData["Title"] = "Editar";
+}
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>Insira abaixo seus novos dados.</h1>
+    <form method="post" asp-action="Editar">
+        <input type="hidden" asp-for="Id">
+        <table>
+            <tr>
+                <p>
+                    <td><label asp-for="Nome">Informe seu Nome:</label></td>
+                    <td><input asp-for="Nome"></td>
+                </p>
+            </tr>
+            <tr>
+                <p>
+                    <td><label asp-for="Email">Informe seu Email:</label></td>
+                    <td><input asp-for="Email"></td>
+                </p>
+            </tr>
+            <tr>
+                <p>
+                    <td><label asp-for="Telefone">Informe seu Telefone:</label></td>
+                    <td><input asp-for="Telefone"></td>
+                </p>
+            </tr>
+            <tr>
+                <p>
+                    <td></td>
+                    <td><input type="submit" class="btn btn-primary" value="Confirmar"></td>
+                </p>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>

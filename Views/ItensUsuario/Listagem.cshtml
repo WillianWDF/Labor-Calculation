@@ -1,0 +1,52 @@
+@model List<ItensUsuario>
+@{
+    ViewData["Title"] = "Listagem";
+}
+<html>
+
+<body>
+    <header>
+        <h1>Cadastro feito com sucesso!</h1>
+    </header>
+    <main>
+        <table align="center" border="2" class="table">
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Telefone</th>
+                <th>Operações</th>
+            </tr>
+
+
+            @foreach (ItensUsuario item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                    <td>@item.Telefone</td>
+                    <td>
+                        <a href="/ItensUsuario/Editar?Id=@item.Id">Alterar</a> |
+                        <!-- Usuario = Controller / Editar = Action / ? = Parâmetro -->
+                    <a href="/ItensUsuario/Excluir?Id=@item.Id"
+                        onclick="return confirm('Deseja realmente remover este item? ')">Excluir</a>
+                        <!-- Usuario = Controller / Excluir = Action / ? = Parâmetro -->
+                        <!-- Diferencia ação de Parâmetro basta apenas colocar o ponto de interrogação-->
+                </td>
+                </tr>
+
+            }
+
+
+        </table>
+        <br>
+        <br>
+        <br>
+        <span><a asp-action="FaleConosco">Clique aqui</a> para fazer um novo cadastro.</span>
+        <br>
+        <span>Caso queira acessar os outros conteúdos de nossa página, basta clicar em um dos links na parte superior da
+            página.</span>
+
+    </main>
+</body>
+
+</html>

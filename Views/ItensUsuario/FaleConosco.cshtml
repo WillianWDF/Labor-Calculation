@@ -1,0 +1,55 @@
+@model ItensUsuario
+@{
+    ViewData["Title"] = "Fale Conosco";
+}
+<!DOCTYPE html>
+<html>
+
+<body>
+    <header>
+        <h1>Venha fazer parte de nossa equipe</h1>
+    </header>
+    <main>
+        <img src="https://correionogueirense.com.br/site/wp-content/uploads/2019/02/escritorio-de-contabilidade-esta-com-vaga-em-aberto-correio-nogueirense-768x549.jpg"
+            width="250">
+        <br>
+        <br>
+        <span>Faça seu cadastro aqui!</span>
+        <table>
+            <form method="post" asp-action="FaleConosco">
+                <tr>
+                    <p>
+                        <td><label asp-for="Nome">Nome:</label></td>
+                        <td><input type="text" asp-for="Nome" required /></td>
+                    </p>
+                </tr>
+                <tr>
+                    <p>
+                        <td><label asp-for="Telefone">Telefone:</label></td>
+                        <td><input type="text" asp-for="Telefone" required /></td>
+                    </p>
+                </tr>
+
+                <tr>
+                    <p>
+                        <td><label asp-for="Email">E-mail:</label></td>
+                        <td><input type="email" asp-for="Email" required /></td>
+                    </p>
+                </tr>
+
+                <tr>
+                    <p>
+                        <td></td>
+                    </p>
+                    <p>
+                        <td><input type="submit" class="btn btn-primary" value="Cadastrar"></td>
+                    </p>
+                </tr>
+            </form>
+        </table>
+
+    </main>
+
+</body>
+
+</html>
